@@ -1,4 +1,4 @@
-<h2> Hello, I'm Jakub Bodak!></h2>
+<h2> Hello, I'm Jakub Bodak!</h2>
 <p><em>Computer Science student at <a href="https://www.pw.edu.pl/">Warsaw University of Technology.</a></em></p>
 
 ### Something about me:
