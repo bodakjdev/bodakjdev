@@ -5,7 +5,7 @@
 
 ```javascript
 const jakub = {
-  areas_of_interest: [Web development, Web design, AI],
+  areas_of_interest: [Web_development, Web_design, AI],
   learning: [Javascript, Java],
   familiar: [HTML, CSS, Python, C#, C, C++, R],
 }
