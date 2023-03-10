@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2> Hello, I'm Jakub Bodak!></h2>
+<p><em>Computer Science student at <a href="https://www.pw.edu.pl/">Warsaw University of Technology.</a></em></p>
 
-<!--
-**bodakjdev/bodakjdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Something about me:
 
-Here are some ideas to get you started:
+```javascript
+const jakub = {
+  areas of interest: [Web development, Web design, AI]
+  learning: [Javascript, Java],
+  familiar: [HTML, CSS, Python, C#, C, C++, R],
+}
+```
+<em><b>I love connecting with other ambitious people!</b>
+<br>Feel free to contact me :)</b></em>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
