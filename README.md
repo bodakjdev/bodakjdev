@@ -8,6 +8,7 @@ const jakub = {
   areas_of_interest: [Web_development, Web_design, AI],
   learning: [Javascript, Java],
   familiar: [HTML, CSS, Python, C#, C, C++, R],
+  tools_frameworks_libraries: [Figma, Django, OpenCV, WinForms, WPF]
 }
 ```
 <em><b>I love connecting with other ambitious people!</b>
