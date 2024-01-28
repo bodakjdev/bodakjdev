@@ -6,9 +6,8 @@
 ```javascript
 const jakub = {
   areas_of_interest: [Web_development, Web_design, AI],
-  currently_learning: [Javascript, Java],
   familiar: [HTML, CSS, Python, C#, C, C++, SQL, R],
-  tools_frameworks_libraries: [Figma, Django, OpenCV, WinForms, WPF, .NET]
+  tools_frameworks_libraries: [React, NextJS, React Native, Figma, Django, OpenCV, WinForms, WPF, .NET]
 }
 ```
 <em><b>I love connecting with other ambitious people!</b>
